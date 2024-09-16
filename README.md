@@ -23,3 +23,12 @@ The dataset used includes indicators such as:
 
 1. **Cluster Analysis**: Countries were grouped into two clusters based on their socio-economic and health data.
 2. **Aid Distribution**: A strategy was developed to allocate funds based on cluster needs, prioritizing countries with higher socio-economic challenges.
+
+## Requirements
+
+- Python 3.x
+- Required Python libraries: See [requirements.txt](requirements.txt) for a full list.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
