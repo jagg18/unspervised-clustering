@@ -4,6 +4,14 @@
 
 This Jupyter Notebook provides a comprehensive analysis of socio-economic and health data to develop an effective aid allocation strategy. The analysis involves clustering countries based on key indicators and determining how to allocate aid funds to maximize impact.
 
+<img src="images/clustering-1.png" alt="Clustering Result" width="400"/>
+
+<img src="images/clustering-2.png" alt="Clustering Result" width="400"/>
+
+<img src="images/clustering-3.png" alt="Clustering Result" width="400"/>
+
+<img src="images/clustering-4.png" alt="Clustering Result" width="400"/>
+
 ## Contents
 
 - **Data Analysis**: Exploration of socio-economic and health data for various countries.
